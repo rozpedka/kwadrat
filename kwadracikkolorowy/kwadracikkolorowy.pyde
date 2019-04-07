@@ -1,7 +1,7 @@
 global pos1
 pos1=0
 global pos2
-pos2=250  #tu dałam takie, bo jeszcze nie jest ustalony size okienka, więc nie może być podzielony height przez dwa, bo jeszcze tego height nie ma 
+#pos2=250  #tu można jeszcze nie podawać i tą linijkę pominąć
 def setup():
     rectMode(CENTER)
     size(500,500)
